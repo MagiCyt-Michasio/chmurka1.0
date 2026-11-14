@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-set -Eeuo pipefail
+set -Eeu pipefail
 cd "$(dirname "$0")"
-exec node server.js
+^XÈ›ÙHÙ\™\‹šœÂ
